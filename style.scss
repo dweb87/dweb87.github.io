@@ -197,7 +197,7 @@ img {
 }
 
 .site-name {
-  margin: 0px;
+  margin-left: 0px;
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
@@ -236,7 +236,7 @@ nav {
   }
 
   a {
-    margin-left: 0px;
+    margin-left: 20px;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
