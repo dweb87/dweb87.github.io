@@ -220,10 +220,11 @@ img {
 
 nav {
   float: right;
+  text-align: center;
   margin-top: 0; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
-  width: 100%;
+  width: 50%;
   padding: 10px;
 }
 
