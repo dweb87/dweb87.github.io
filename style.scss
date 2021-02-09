@@ -197,15 +197,13 @@ img {
 }
 
 .site-name {
-  margin-left: 0px;
+  margin-top: 23px;
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
-  width: 100%;
-  padding: 10px;
 }
 
 .site-description {
@@ -220,13 +218,9 @@ img {
 
 nav {
   float: right;
-  text-align: center;
-  margin-top: 0; // @TODO: Vertically middle align
+  margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
-  width: 50%;
-  padding: 10px;
-}
 
   @include mobile {
     float: none;
@@ -244,7 +238,8 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue; 
+      color: $blue;
+    }
   }
 }
 
