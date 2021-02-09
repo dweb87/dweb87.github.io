@@ -217,30 +217,198 @@ img {
 }
 
 nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 18px;
+  padding: 20px 0 20px 0;
+  background-color: #7A8B93;
+}
 
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
+nav a {
+  text-transform: uppercase;
+  font-weight: 0;
+   color: #ffffff;
+   text-decoration: none;
+   padding: 0 20px 0 20px;
+}
+
+nav a:hover {
+  text-decoration: none;
+  color: #0A1128;
+  visibility: visible;
+}
+
+li {
+ display: inline-block;
+ transition-duration: 0.5s;
+}
+
+li:hover {
+  cursor: pointer;
+}
+
+/* Style The Dropdown Button */
+.dropbtn {
+    background-color: #7A8B93;
+    color: white;
     font-size: 16px;
-  }
+    border: none;
+    cursor: pointer;
+    padding: 0px;
+    margin-top: 0px;
+}
 
-  a {
-    margin-left: 20px;
-    color: $darkGray;
-    text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
 
-    @include mobile {
-      margin: 0 10px;
-      color: $blue;
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #7A8B93;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: white;
+    padding: 0px 0px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #7A8B93}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #7A8B93;
+}
+
+
+#nav
+{
+    /* container */
+}
+    #nav > a
+    {
+        display: none;
     }
+    #nav li
+    {
+        display: inline;
+        margin: 0 auto;
+
+    }
+
+    /* first level */
+
+    #nav > ul
+    {
+      display: inline;
+      margin: 0 auto;
+    }
+
+
+    /* second level */
+
+    #nav li ul
+    {
+        display: none;
+        position: absolute;
+        top: 100%;
+    }
+        #nav li:hover ul
+        {
+            display: block;
+        }
+
+.about-mobile {
+          display: none;
+        }
+
+.about-desktop {
+          display: inline;
+        }
+
+section {
+  max-width: 720px;
+  margin: 0 auto 0 auto;
+  padding: 0;
+}
+
+table {
+  width: 100%;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50.00%;
+  padding: 0px;
+}
+
+@media screen and (max-width: 792px) {
+  .column {
+    width: 100%;
+    padding-left: 0px;
   }
+}
+
+button {
+  font-family: "Montserrat", Arial, sans-serif;
+  cursor: pointer;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: #7A8B93;
+  color: #ffffff;
+  width: 100%;
+  border:none;
+  text-align: left;
+  outline: none;
+  text-transform: uppercase;
+  font-weight: 0;
+}
+
+.collapsible {
+  font-family: "Montserrat", Arial, sans-serif;
+  cursor: pointer;
+  padding: 10px;
+  background-color: #7A8B93;
+  color: #ADB6BA;
+  width: 100%;
+  border:none;
+  text-align: left;
+  outline: none;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.collapsible:after {
+    content: '\002B'; /* Unicode character for "plus" sign (+) */
+    color: inherit;
+    float: right;
+    margin-left: 5px;
+}
+
+.active:after {
+    content: "\2212"; /* Unicode character for "minus" sign (-) */
+}
+
+.collapsible:hover {
+  text-decoration: none;
+  color: #0A1128;
 }
 
 //
