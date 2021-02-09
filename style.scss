@@ -73,7 +73,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #FE00FF;
+    color: $blue;
   }
 	&.postheadline { 
 		text-decoration: none;
