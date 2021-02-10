@@ -72,14 +72,14 @@ p {
 
 a {
   text-decoration: none;
-		color: inherit;
+		color: $darkGray;
 	cursor: pointer;
   &:hover, &:active {
     color: #FEA9FF;
   }
 	&.postheadline { 
 		text-decoration: none;
-		color: inherit;
+		color: $darkGray;
 		box-shadow: inset 0 -6px 0 RGB(254 0 255 / 40%);
 	&.postheadline:hover {
 		background-color: #FEA9FF; }
@@ -253,7 +253,7 @@ nav {
 
 page.entry a {
 	text-decoration: none;
-	color: inherit;
+	color: $darkGray;
 	box-shadow: inset 0 -6px 0 RGB(254 0 255 / 40%);
 	&:hover {
 		background-color: #FEA9FF; }
@@ -289,7 +289,7 @@ page.entry a {
 
 .entry a {
 	text-decoration: none;
-	color: inherit;
+	color: $darkGray;
 	box-shadow: inset 0 -6px 0 RGB(254 0 255 / 40%);
 	&:hover {
 		background-color: #FEA9FF; }
