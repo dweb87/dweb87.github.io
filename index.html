@@ -6,12 +6,12 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
       
-<span>{{ post.date | date_to_string | date: "%b. %d, %Y"}}</span> &raquo;
       
       <h1><a class="postheadline" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
-        {{ post.date }}
+        {{ post.date | date_to_string | date: "%b. %d, %Y"}}
+
       </div>
 
      
