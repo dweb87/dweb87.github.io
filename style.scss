@@ -74,7 +74,7 @@ a {
   text-decoration: none;
 		color: #111;
 	cursor: pointer;
-  &:hover {
+  &:hover, &:active {
     color: #FEA9FF;
   }
 	&.postheadline { 
@@ -243,7 +243,6 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
     }
   }
 }
