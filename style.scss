@@ -251,6 +251,14 @@ nav {
 // .main
 //
 
+page.entry a {
+	text-decoration: none;
+	color: #111;
+	box-shadow: inset 0 -6px 0 RGB(254 0 255 / 40%);
+	&:hover {
+		background-color: #FEA9FF; }
+	}
+
 ::marker {
     unicode-bidi: isolate;
     font-variant-numeric: tabular-nums;
@@ -287,13 +295,7 @@ nav {
 		background-color: #FEA9FF; }
 	}
 	
-page.entry a {
-	text-decoration: none;
-	color: #111;
-	box-shadow: inset 0 -6px 0 RGB(254 0 255 / 40%);
-	&:hover {
-		background-color: #FEA9FF; }
-	}
+
 		
   .comments {
     margin-top: 10px;
