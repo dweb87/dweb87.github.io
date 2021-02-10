@@ -53,7 +53,9 @@ h1 {
 
 h2 {
   font-size: 30px;
-	a:hover {
+	a {
+	color: #111}
+	&:hover {
 		background-color: RGB(254 0 255 / 40%); }
 }
 
