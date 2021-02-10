@@ -3,13 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
+I'm a creative strategist with over 10 years of experience in digital media. I mainly work for agencies, but have recently undertaken a PhD looking at posthuman marketing processes. 
 
-Some information about you!
+Get in touch: [d_webster87@hotmail.com](mailto:d_webster87@hotmail.com) / [@dan_webster](https://twitter/dan_webster)
 
-### More Information
+### How I Got Here
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+
