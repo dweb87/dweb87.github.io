@@ -3,7 +3,7 @@ layout: post
 title: Is this thing on?
 subtitle: Introducing myself, my new blog, its themes, and general purpose.
 date:   2021-02-11 12:51:31 +0000
-tag: Blog
+tag: Blogging
 ---
 Hi, my name is Dan Webster.
 
