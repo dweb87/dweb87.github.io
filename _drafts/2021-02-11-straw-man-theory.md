@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Strawman Theory
+title: Straw Man Theory
 subtitle: The benefits of not finishing your work.
 date:   2021-02-07 15:46:31 +0000
+tag: Strategy
 ---
 
 
