@@ -144,6 +144,13 @@ margin: 0px 0px 55px 0px;
   font-size: 1.5rem;
 }
 
+.tag {
+  font-style: italic;
+  font-size: 0.875rem;
+  color: $gray;
+  margin: 0px 0px 55px 0px;
+}
+
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;

@@ -6,7 +6,7 @@
 name: Dan Webster
 
 # Short bio or description (displayed in the header)
-description: Media strategist
+description: Posthuman media strategies
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/dweb87/dweb87.github.io/master/images/_dw.jpg
@@ -21,11 +21,11 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: 
+  github:
   instagram:
   linkedin: https://www.linkedin.com/in/danwebster87/
   pinterest:
-  rss: 
+  rss:
   twitter: dan_webster
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -39,7 +39,7 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: G-DX12ZJZPBH
 
-# Your website URL 
+# Your website URL
 # Used for Sitemap.xml and your RSS feed
 url: https://dweb87.github.io
 
