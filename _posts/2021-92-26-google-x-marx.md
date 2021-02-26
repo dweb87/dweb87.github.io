@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GOOGLE x MARX
+title: Google x Marx
 subtitle: Reflections on the rise and promotion of automated solutions within the Google Ads platform.
 date:   2021-02-21 17:19:00 +0000
 tag: Algorithms
