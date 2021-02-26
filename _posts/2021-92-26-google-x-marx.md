@@ -20,7 +20,7 @@ The arrival of the algorithm however has led to a complete inversion of this log
 
 Essentially, Google are telling marketers to give over some control of their campaigns, and that is scary. Rather than big campaigns with multiple lines of segmentation to offer clients, marketers are being asked to just give them 1 single line that am algorithm runs. As a friend of mine at Facebook said to me, people are not afraid of the algorithm so much as resistant to the simplicity it presents them with.
 
-Tied up in this are all sorts of anxieties, but none more fearsome than the prospect of being replaced by the machine. And this is a genuine fear; supermarkets re replacing their check-out assistants, automated cars are being developed to replace cab drivers, and factory lines are being roboticised in a direct replacement of working-class jobs.
+In particukar, this is scary because tied up in this are all sorts of anxieties, with none more fearsome than the prospect of being replaced by the machine. And this is a genuine fear; supermarkets are replacing their check-out assistants; automated cars are being developed to replace cab drivers; and factory lines are being roboticised, all developments directly replacing what are predominantly working-class jobs.
 
 ### Machinic Liberation
 
