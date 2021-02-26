@@ -3,7 +3,7 @@ layout: post
 title: GOOGLE x MARX
 subtitle: Reflections on the rise and promotion of automated solutions within the Google Ads platform.
 date:   2021-02-21 17:19:00 +0000
-tag: Blogging
+tag: Algorithms
 ---
 
 I attended Google's recent training on re-strategising paid search activity for algorithmic  activity a couple of weeks ago. It was an interesting session, a lot pa led into a single hour that attempted to convince advertisers and marketers of why they should tear up everything Google have previously taught them about running a PPC campaign. However, there was one particular aspect that really jumped out at me: how Google were using the logic of Mark (yes, grandfather of communism Karl Marx). In this article I am going to establish what that link is, and unpick this a bit further to try and tease out why it has come about.
