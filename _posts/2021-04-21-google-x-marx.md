@@ -2,7 +2,7 @@
 layout: post
 title: Google x Marx
 subtitle: Reflections on the rise and promotion of automated solutions within the Google Ads platform.
-date:   2021-02-21 17:19:00 +0000
+date:   2021-04-21 17:19:00 +0000
 tag: Algorithms
 ---
 
@@ -32,4 +32,4 @@ Generally this is great news, and the correct direction most marketers want to b
 
 Whilst this all sounds really lovely and utopian - funnily socialist - in its appeal, it will of course come down to how agencies see the application of this. If you have a PPC team of 3 people and an algorithm can do a lot of the grunt work, do you need 3 people to all be doing strategy? Do you need 3 people to all be pulling in different creative directions? My argument would be yes, you do, as those directions are constantly pulling you out of your comfort zone and into new frontiers of creative output and possibilities. Whether that view is shared by al companies is another thing altogether.
 
-That aside, I am intrigued by Google's approach to this, and find it funny that my views form a performance review about how to improve our team and the work it was producing are now being mirrored by Google 5 years later. Whether they have knowingly used Marx's fragment on the machine in their thinking will probably never be known, but the fact that that is where this thinking ultimately lies, is an interesting development, and one that poses many questions for the future of digital marketing. Ultimately though, anything that is able to release individual and group creativity is a good thing. I am just not sure that Google are being totally genuine in their claims that the algorithm as it is currently used in a sometimes ruthless pursuit of profit will be the way to do that. 
+That aside, I am intrigued by Google's approach to this, and find it funny that my views form a performance review about how to improve our team and the work it was producing are now being mirrored by Google 5 years later. Whether they have knowingly used Marx's fragment on the machine in their thinking will probably never be known, but the fact that that is where this thinking ultimately lies, is an interesting development, and one that poses many questions for the future of digital marketing. Ultimately though, anything that is able to release individual and group creativity is a good thing. I am just not sure that Google are being totally genuine in their claims that the algorithm as it is currently used in a sometimes ruthless pursuit of profit will be the way to do that.

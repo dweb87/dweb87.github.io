@@ -2,7 +2,7 @@
 layout: post
 title: I am a Doctor Now
 subtitle: Reflections on my PhD viva.
-date:   2021-02-20 14:49:01 +0000
+date:   2021-03-20 14:49:01 +0000
 tag:
 ---
 
@@ -24,6 +24,6 @@ I doubt I will ever face anything quite as daunting or challenging as my viva. I
 
 ### What Comes Next
 
-What comes next for me is still to be fully formed. But I know that I want it to remain centred around producing excellent, world leading, original work. I know I want to continue being able to think deeply about problems and solve them in innovative and novel ways. And I know I want to be able to work flexibly and in an agile, project based manner with custom teams, clients and others who want to push and challenge the way they work towards something truly excellent. 
+What comes next for me is still to be fully formed. But I know that I want it to remain centred around producing excellent, world leading, original work. I know I want to continue being able to think deeply about problems and solve them in innovative and novel ways. And I know I want to be able to work flexibly and in an agile, project based manner with custom teams, clients and others who want to push and challenge the way they work towards something truly excellent.
 
-The last few years for me have been spent creating something that has passed the highest scrutiny imaginable, theorising new ways to conceive the relation between humans, devices, algorithms, cookies, auction models, platforms, ads, consent, responsibility, ethics, and more. What I want most in my future is to find others who are thinking through these things, trying to find new solutions to the same old problems, and looking to do so in ways that always push our practice forwards into new creative frontiers. If you think that might be you, feel free to give me a shout :) 
+The last few years for me have been spent creating something that has passed the highest scrutiny imaginable, theorising new ways to conceive the relation between humans, devices, algorithms, cookies, auction models, platforms, ads, consent, responsibility, ethics, and more. What I want most in my future is to find others who are thinking through these things, trying to find new solutions to the same old problems, and looking to do so in ways that always push our practice forwards into new creative frontiers. If you think that might be you, feel free to give me a shout :)
