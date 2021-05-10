@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Glossary: Viscosity
+title: Glossary_Viscosity
 subtitle: A new vocabulary for a digitally marketised world.
 date:   2021-05-10 17:19:00 +0000
 tag: Glossary
