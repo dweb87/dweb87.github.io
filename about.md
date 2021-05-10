@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About
-subtitle: I’m a creative strategist with over 10 years of experience in digital media. I mainly work for agencies, but have recently undertaken a PhD looking at posthuman marketing processes.
+subtitle: I’m a creative strategist with over 10 years of experience in digital media. I mainly work for agencies, but enjoy project based work and have recently undertaken a PhD looking at posthuman marketing processes.
 permalink: /about/
 ---
 ### How I Got Here
