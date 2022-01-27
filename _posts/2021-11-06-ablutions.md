@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ablutions
-subtitle: Catharsis in a time of crisis.
+subtitle: Purpose in a time of crisis.
 date:   2021-11-06 15:00:01 +0000
 tag: Ablutions
 ---
