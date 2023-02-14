@@ -3,7 +3,7 @@ layout: post
 title: Reflections on a PhD
 subtitle:
 date:   2021-03-20 14:49:01 +0000
-tag:
+tag: Archive | 2021
 ---
 
 Thursday the 18th February 2021 is a day that will be fresh in my mind for a long time. At 11am I began my viva voce, the spoken defence of my PhD thesis "Beyond the Click: Interventions in Digital AdSpace".

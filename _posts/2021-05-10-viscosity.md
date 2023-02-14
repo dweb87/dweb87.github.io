@@ -3,7 +3,7 @@ layout: post
 title: Viscosity
 subtitle: A new vocabulary for a digitally marketised world.
 date:   2021-05-10 17:19:00 +0000
-tag: Glossary
+tag: Archive | 2021
 ---
 
 After now finishing my PhD thesis and on the cusp of being able to finally submit it in hardbound form, I wanted to post a few snippets that may be of use in wider applications - both in relation to digital marketing and beyond. My thesis comprised of many different things, but structurally was centred around 6 analysis chapters that individually looked at a particular aspect of digital marketing and began to construct a new vocabulary with which to approach, understand, and unfold it.
