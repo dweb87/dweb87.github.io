@@ -15,7 +15,7 @@ The reality is far messier. Consumers don’t move in linear paths. They discove
 
 Rather than viewing consumer behaviour as a rigid sequence, we should be looking for patterns - the recurring ways people engage with brands, make decisions, and form habits. Some patterns are organic, shaped by cultural shifts and digital ecosystems. Others can be designed and reinforced by brands to guide users toward meaningful engagement.
 
-Engagement is a two way thing (think [Serre's Parasite](https://www.upress.umn.edu/9780816648818/the-parasite/]) that both takes and gives). Successful brands don’t just react (take) to consumer behaviour - they actively help to shape it through the media, content, sites, and products they put into the world. They create desires, rituals, habits, and systems that engage people long before and after a purchase. The real challenge is understanding how to identify, amplify, and build these patterns - both consumer's and brand's - into marketing strategy.
+Engagement is a two way thing (think [Serre's Parasite](https://www.upress.umn.edu/9780816648818/the-parasite/]) that both takes and gives). Successful brands don’t just react to (take) consumer behaviour - they actively help to shape it through the media, content, sites, and products they put into (give) the world. They create desires, rituals, habits, and systems that engage people long before and after a purchase. The real challenge is understanding how to identify, amplify, and build these patterns - both consumer's and brand's - into marketing strategy.
 
 
 ### What Comes Next?
