@@ -6,7 +6,7 @@ date:   2025-02-15 13:25:00 +0000
 tag: Theory | 2025
 ---
 
-For years, digital marketing has relied on the funnel as the dominant strategic model—guiding consumers step by step from awareness to conversion. It’s a neat and tidy framework that looks great in presentations. But does it truly reflect how people engage with brands?
+For years, digital marketing has relied on the funnel as the dominant strategic model: guiding consumers step by step from awareness to conversion. It’s a neat and tidy framework that looks great in presentations. But does it truly reflect how people engage with brands?
 
 The reality is far messier. Consumers don’t move in linear paths. They discover, hesitate, return, validate, get distracted, and sometimes convert when we least expect it. The modern customer journey is therefore not a funnel or pipeline, but a web of interconnected behaviours, loops, and triggers. Yet, most strategies still force-fit people into an outdated structure.
 
@@ -30,4 +30,4 @@ ii) The Role of Triggers and Loops in Brand Engagement – Understanding the psy
 
 iii) Designing Behaviours Rather than Just Tracking Them – How brands can intentionally shape consumer engagement rather than just reacting to it.
 
-It’s time to move past the funnel and into a more dynamic, behaviour-first model. 
+It’s time to move past the funnel and into a more dynamic, behaviour-first model.
