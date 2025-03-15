@@ -6,7 +6,7 @@ date:   2022-01-24 13:25:00 +0000
 tag: Method | 2022
 ---
 
-This is an unpublished paper that went for peer review in 2022, was reviewed relatively well with a requirement for some changes. I never got around to making those changes, but decided to host the submission on my site as the project it documents - the 0.1km project - is hopefully an interesting and useful piece of research. It is imperfect and unfinished, but maybe it can help and inspire future work.
+This is an unpublished paper that went for peer review in 2022, was reviewed relatively well with a requirement for some changes. I never got around to making those changes, but decided to host the submission on my site as the project it documents - the 0.1km project - is hopefully an interesting and useful piece of research. It is unpublished, imperfect, and unfinished, but I will let it sit here and who knows, maybe it can help and inspire future work.
 
 
 ### ABSTRACT
@@ -90,6 +90,7 @@ As such, Google Ads can be understood not as a static, fixed thing, but rather a
 ### //BLACK BOX IN-MOTION: CREATIVE- AND MARKETING-PRACTICE IN ACTION
 
 APPROACH:
+
 The 0.1km Project was a research project set up in response to the requirements of a fast moving, dispersed, and multi-medial platform assemblage such as Google Ads by turning to research-creation methods that could better engage and explore its private and opaque workings. The project was designed by myself and artist Michael Hanna, and centred around an art intervention into the everyday workings of Google Ads which uploaded bespoke art into the platform. The project ran between the 22nd October and 26th November 2018, serving art to internet users 431,844 times. The art was clicked on 718 times by users who were directed to a custom built website which explained more about the project and allowed them the opportunity to engage with it further through public comments and/or private emails.
 
 In order to be successfully uploaded into Google Ads, the artwork had to comply with Google’s particular ad specifications. We chose to adhere to Google’s most prevalent ad size and format, the 300x250 pixel Mid-Page Unit, or MPU, due to its popularity and ubiquity across the internet. The result was 2 series of 8 artworks, one based in Belfast (B1 — B8), and the second based in Milan (M1 — M8), each city chosen due to their practical accessibility to both myself and Michael during the year planning the project.
@@ -103,7 +104,7 @@ Each of the 16 artworks corresponded to a particular site within each city found
 
 ![Fig. 1: Left - Belfast / Right - Milan (Maps Produced by Michael Hanna for the 0.1km Project, 2019)](/images/0point1MAP.png)
 
-
+Fig. 1: Left - Belfast / Right - Milan (Maps Produced by Michael Hanna for the 0.1km Project, 2019).
 
 Michael chose to use Google Ads’ radius targeting feature, and set it to its lowest diameter — 0.1km — giving the project its name and covering an area within each city that included a spectrum of public and private use sites so that the art could reach as broad a cross-section of people as possible.
 
@@ -113,6 +114,7 @@ Research-creation was therefore used as a way to provide an innovative and criti
 
 
 COMMUNICATION:
+
 By being uploaded into Google Ads, the art of the 0.1km Project came to confront different audiences at different times: troubling a sense of normality not only for public audiences as they browsed the internet, but also the agents of Google Ads. For example, the first engagement with the art arose when it was originally uploaded into the Google Ads platform. All the art was immediately “disapproved” by a Google algorithm due to a perceived violation of Google’s terms: namely the images not being identifiable as related to a business. As a result, the art had to be redesigned and resubmitted in an iterative process that slowly felt out what was acceptable by the algorithm as an ad. It transpired that the algorithm was looking for a logo, business name or website URL, and so the latter was added to our art in order to satiate Google's requirements. Here the algorithm was found to be continually policing the thresholds of acceptability between what was and was not deemed to be a valid advert, and in so doing, determining a binary and essential purpose of the images uploaded to the Google Ads assemblage. This back and forth communication with an algorithm is something that “outside” observation or ordinary engagement with the platform (uploading normal ads for example) may never have triggered, never surfacing nor troubling Google’s process of deterministic judgements over ad and non-ad — a purpose and purposelessness — that were foundational to the ad-network’s functioning.
 
 Once accepted by Google’s ad-determining algorithms, the art then led to further encounters with Google’s (human) specialists who found the art equally difficult to deal with leading them to set up a series of calls with me to help “optimise” it. These calls with Google experts presented unique opportunities to converse and interview people that other researchers have found almost impossible to access (Thornton, 2019), highlighting the benefits that were made possible by working with/in the Google Ads platform which were further amplified by the frictions the interventionist nature of the work generated.
@@ -122,6 +124,7 @@ Here the research-creation approach used in the 0.1km Project reveals dual benef
 The bespoke digital art created for the project was therefore more than simply a vehicle to communicate data to a broad audience at the project's end. Rather, it was an important and innovative means of communication throughout the entirety of the project: a set of catalytic tools that enabled a critical access and exploration of the Google Ads platform in motion. As such, the art presented not only a communication in itself, but a constant and considered means of communicating, creating frictions and opportunities to engage with important agents, objects and processes that would otherwise have remained unseen and unrealised.
 
 COLLABORATION:
+
 Through Michael and I, the 0.1km Project involved two main collaborators: a researcher and an artist. By working with an artist, I was acknowledging my own limitation in being able to create appropriate art for the project. The artist was engrained in artistic practice and could offer a creative perspective in the co-design, making and doing of the project I was unable to. However, I was not ceding my own position within the project because my own experience lay in a digital media career that gave me an intricate knowledge of marketing platforms, including Google Ads. In this way, I added a particular level of both access and an “insider knowledge” to the project, bringing not an artistic practice, but rather a marketing practice that came to jointly shape and guide the research design and implementation.
 
 Whilst on one hand this “insider” access and knowledge allowed the project to immediately participate in and “speak the language” of marketing, my role as critical researcher and collaboration with an artist simultaneously brought in new perspectives into that domain. Each different perspective and practice brought a continual discussion, negotiation and work that countered, complimented or reoriented how we came to understand the Google Ads platform and its various agents, tools and processes. My “insider” status was therefore being continually checked by Michael, and in turn, came to provide a series of checks to his own “outsider” assumptions, views and role as an artist within the project. These checks became important in enabling us to become ever more intimately aware of our roles within the Google Ads assemblage at different times: both becoming familiar with, critical of, and at times perhaps even sympathetic towards the different views, agents, languages and processes we encountered. In this way, collaboration meant we could transition beyond strictly delineated roles of researcher, marketer, and artist, and into a more fluid hybrids of researcher-marketer-artist.
@@ -133,6 +136,7 @@ As such, the creative and practice-led methods employed in the 0.1km Project con
 In this way, the collaborative approach that research-creation enabled meant that the research never totally centred around one particular (human) agent, and as such never allowed a grand, universal vision of Google by a single individual to crystallise. Rather, the ways in which the Google Ads assemblage could be understood, engaged and experienced through a research-creation approach were continually re-oriented and re-negotiated so that that (non-human) which had often been overlooked and under-considered in previous research was continually pulled to the forefront. As such, research-creation forced the acknowledgment, consideration, and positioning of multiple more-than-human perspectives alongside one another within what was an ever more intimate, reflexive, and collaborative research process.
 
 CHALLENGE:
+
 As we have seen above, the use of research-creation methods with/in the Google Ads platform was that both researcher and artist were able to actively intervene, identify, unpick, reflect on, and communicate the limits, contradictions and pressure points of Google through its everyday workings in a way that exceeded the abilities of each individual. The intervention was thus designed to challenge and probe the agents of Google Ads within their normative performances, and ultimately allow new thoughts, questions and directions to unfold. For example, those people in Belfast and Milan who saw the art served within Google’s ad-network were confronted with images of everyday sites that could be found around them, but sites that were now abstracted, replicated and repeated inside their devices. The ads led to a custom website that allowed comments and email correspondence to be sent, each of which often displayed a similar sentiment - one of curiosity:
 
 
@@ -145,12 +149,11 @@ As we have seen above, the use of research-creation methods with/in the Google A
 
 Here, the art had become a means of enrolling a wider public of internet users into the project by confronting them with the marketing processes of Google Ads in a way that they were now able to communicate back to. This in turn gave a new dimension to the research where people within Google’s targeted, private, and proprietary audiences - those normally silenced by the marketing process - were empowered through those same processes to freely air alternative viewpoints, insights and anxieties about them:
 
-S: Yes [the location in the ad/art seen was] really close, really close, maybe fifteen feet or something. Almost scary to a point.
+	S: Yes [the location in the ad/art seen was] really close, really close, maybe fifteen feet or something. Almost scary to a point.
 
-[...]
+	[...]
 
-S: It feels like you’re being spied on a bit too much. It feels a bit too much. It’s too targeted.
-(Selected quotes from S interview, 2018)
+	S: It feels like you’re being spied on a bit too much. It feels a bit too much. It’s too targeted. (Selected quotes from S interview, 2018)
 
 Here, the project not only engaged and involved a range of Google’s users, but provided them with the times and spaces to think and talk about the agents, objects and processes they were encountering. As such, research-creation methods did not fundamentally change the Google Ads platform, but were successful in enrolling and empowering a range of participants (researchers, artists, audiences) to disrupt, engage and unfold it in ever new and unexpected ways. Research-creation thus allowed a process of challenging normalised processes and assumptions that continually opened up new lines of enquiry both within and without academia, and ultimately enabled the research to have a wide and deep impact from its inception to completion.
 
@@ -171,49 +174,95 @@ Overall, all research involves a variety of decisions for researchers to make ar
 ### //REFERENCES
 
 Amoore, L. (2009) Lines of sight: on the visualization of unknown futures, Citizenship Studies, 13(1): 17-30.
+
 Amoore, L. (2018) Cloud geographies:Computing, data, sovereignty, Progress in Human Geography, 42(1): 4-24.
+
 Amoore, L. (2019) Doubt and the Algorithm: On the Partial Accounts of Machine Learning, Theory, Culture & Society, 36(6): 147-169.
+
 Amoore, L. & Piotukh, V. (2019) Interview with N. Katherine Hayles, Theory, Culture & Society, 36(2): 145-155.
+
 Back, L. (2012) Live Sociology: Social Research and its Futures, The Sociological Review, 60(1_suppl): 18-39.
+
 Butler, T. (2006) A walk of art: The potential of the sound walk as practice in cultural geography, Social and Cultural Geography, 7889-908.
+
 Cahill, C. (2007) The Personal is Political: Developing new subjectivities through participatory action research, Gender, Place & Culture, 14(3): 267-292.
+
 Carr, W. & Kemmis, S. (2003) Becoming Critical: Education Knowledge and Action Research, Milton Park, Milton Park: Taylor & Francis.
+
 Colls, R. (2011) BodiesTouchingBodies: Jenny Saville’s over-life-sized paintings and the ‘morpho-logics’ of fat, female bodies, Gender, Place and Culture., 19(2): 175-192.
+
 Cook, I. (2000) Social sculpture and connective aesthetics: Shelley Sacks’s ‘Exchange values’, Cultural Geographies, 7337-343.
+
 Cronin, A. M. (2011) Researching Urban Space, Reflecting on Advertising:A Photo Essay, Space and Culture, 14(4): 356-366.
+
 Desjardins, A. & Tihanyi, T. (2019) ListeningCups: a case of data tactility and data stories.  ACM: Proceedings of the 2019 on designing interactive systems conference, 2019 Vancouver, Canada. 147–160.
+
 Dixon, D. (2008) The blade and the claw: Science, art and the creation of the lab-born monster., Social and Cultural Geography, 9671-692.
+
 Foley, J. (2020) 0_engineering fictions [Online]. Available: https://engineeringfictions.wordpress.com/about/0_home/ [Accessed 02/04/2021].
+
 Gandy, M. (1997) Contradictory modernities: Conceptions of nature in the art of Joseph Beuys and Gerhard Richter, Annals of the Association of American Geographers, 87636-665.
+
 Google (2020b) About Google [Online], about.google. Available: https://about.google/ [Accessed 25/09/2020].
+
 Graham, M., Kitchin, R., Mattern, S. & Shaw, J. (2019) How to Run a City Like Amazon, and Other Fables, Oxford, Oxford: Meatspace Press.
+
 Hawkins, H. (2010) The argument of the eye: Cultural geographies of installation art., Cultural Geographies, 171-19.
+
 Hawkins, H. (2021) Geography, Art, Research: Artistic Research in GeoHumanities, Oxon, Oxon: Routledge.
+
 Jameson, F. (1991) Postmodernism, Or, The Cultural Logic of Late Capitalism, Durham, Durham: Duke University Press.
+
 Khot, R., Hjorth, L. & Mueller, F. (2014) Understanding physical activity through 3D printed material artifacts.  ACM: Proceedings of the SIGCHI conference on human factors in computing systems, 2014 2014 Toronto, Canada. 3835–3844.
+
 Khot, R., Lee, J. & Hjorth, L. (2015) TastyBeats: celebrating heart rate data with a drinkable spectacle.  ACM: Proceedings of the ninth international conference on tangible, embedded, and embodied interaction., 2015 Stanford, CA, USA. 229–232.
+
 Kitchin, R. (2017) Thinking critically about and researching algorithms, Information, Communication & Society, 20(1): 14-29.
+
 Kitchin, R. (2021) Data Lives, Bristol, Bristol: Bristol university Press.
+
 Kitchin, R. (Forthcoming) The Data Revolution: Big Data, Open Data, Data Infrastructures and Their Consequences (2nd Edition), London, London: SAGE Publications.
+
 Kitchin, R., Lauriault, T. P. & Mcardle, G. (2015) Knowing and governing cities through urban indicators, city benchmarking, and real-time dashboards, Regional Studies, Regional Science, 2(1): 6-28.
+
 Lee, C. (2019) Datafication, dataveillance, and the social credit system as China’s new normal, Online Information Review, 43(6): 952-970.
+
 Lee, M., Son, O. & Nam, T. (2016) Patina-inspired personalization: personalizing products with traces of daily use.  ACM: Proceedings of the 2016 ACM conference on designing interactive systems, 2016 Brisbane, Australia.
+
 Lupton, D. & Watson, A. (2020) Towards more-than-human digital data studies: developing research-creation methods, Qualitative Research, 1-18.
+
 Mackenzie, D. (2006) Is economics performative? Option theory and the construction of derivatives markets, Journal of the History of Economic Thought, 28(1): 29-55.
-Mejia, A. P. (2015) You Better Check Your Method Before You Wreck Your Method: Challenging and Transforming Photovoice. In: Bradbury, H. (ed.) The SAGE Handbook of Action Research. Third Edition ed. London: SAGE Publications Ltd.
+
+Mejia, A. P. (2015) You Better Check Your Method Before You Wreck Your Method: Challenging and Transforming Photovoice. In:  Bradbury, H. (ed.) The SAGE Handbook of Action Research. Third Edition ed. London: SAGE Publications Ltd.
+
 Nissen, B. & Bowers, J. (2015) Data-things: digital fabrication situated within participatory data translation activities.  ACM: Proceedings of the 33rd annual ACM conference on human factors in computing systems, 2015 Seoul, Republic of Korea. 2467–2476.
+
 Noxolo, P. (2018) Flat Out! Dancing the city at a time of austerity, Environment and Planning D: Society and Space, 36(5): 797-811.
+
 Osborne, T., Warner, E., Jones, P. I. & Resch, B. (2019) Performing Social Media: Artistic Approaches to Analyzing Big Data, GeoHumanities, 5(1): 282-294.
+
 Pain, R. (2003) Social geography: on action orientated research, Progress in Human Geography, 27(5): 649-657.
+
 Petrelli, D., Marshall, M. & O’’Brien, S. (2017) Tangible data souvenirs as a bridge between a physical museum visit and online digital experience, Personal and Ubiquitous Computing, 21(2): 281-295.
+
 Raynor, R. (2019) Speaking, feeling, mattering: Theatre as method and model for practice-based, collaborative, research, Progress in Human Geography, 43(4): 691-710.
+
 Raynor, R. (2019) Making Theatre That Matters: Troubling Subtext, Motive and Intuition, In: Boyd, C. P. & Edwardes, C. (eds.) Non-Representational Theory and the Creative Arts. Singapore: Springer Singapore.
+
 Rose, G. (2016) Rethinking the geographies of cultural ‘objects’ through digital technologies:Interface, network and friction, Progress in Human Geography, 40(3): 334-351.
+
 Ruppert, E., Law, J. & Savage, M. (2013) Reassembling Social Science Methods: The Challenge of Digital Devices, Theory, Culture & Society, 30(4): 22-46.
+
 Springgay, S. & Truman, S. (2018) On the need for methods beyond proceduralism: Speculative middles,(in) tensions, and response-ability in research, Qualitative Inquiry, 24(3): 203-214.
+
 Thornton, P. (2019) Language in the Age of Algorithmic Reproduction: A Critique of Linguistic Capitalism. PhD, Royal Holloway, University of London.
+
 Thudt, A., Hinrichs, U. & Carpendale, S. (2017) Data craft: integrating data into daily practices and shared reflections.  CHI 2017 Workshop on Quantified Data & Social Relationships, 2017 Denver, USA.
+
 Tolia-Kelly, D. (2007) Participatory Art: Capturing Spatial Vocabularies in a Collaborative Visual Methodology with Melanie Carvalho and South Asian Women in London, UK, In: Kindon, S., Pain, R. & Kesby, M. (eds.) Participatory Action Research approaches and methods: Connecting people, participation and place. London: Routledge.
+
 Truman, S. & Springgay, S. (2015) The primacy of movement in research-creation: new materialist approaches to art research and pedagogy, In: Lewis, T. & Laverty, M. (eds.) Art’s Teachings, Teaching’s Art: Philosophical, Critical and Educational Musings. Dordrecht: Springer Netherlands.
+
 Zuboff, S. (2019) The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power, London, London: Profile.
+
 Zuboff, S. (2019b) Facebook, Google and a dark age of surveillance capitalism [Online], ft.com: Financial Times.  [Accessed 27/04/2021].
