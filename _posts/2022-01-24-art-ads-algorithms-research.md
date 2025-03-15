@@ -9,6 +9,11 @@ tag: Method | 2022
 This is an unpublished paper that went for peer review in 2022, was reviewed relatively well with a requirement for some changes. I never got around to making those changes, but decided to host the submission on my site as the project it documents - the 0.1km project - is hopefully an interesting and useful piece of research. It is unpublished, imperfect, and unfinished, but I will let it sit here and who knows, maybe it can help and inspire future work.
 
 
+### AUTHOR
+
+Dr. Dan Webster
+2022
+
 ### ABSTRACT
 
 This paper looks to the current and growing uses of research-creation methods within the humanities and how they can be adopted as new approaches to researching technology. In particular, it examines how black boxes can be engaged and examined through research-creation in ways that move beyond positivist attempts to “open it up” and “see inside". Instead, through a study of Google’s opaque Ads platform, research-creation is shown to offer an entangled research process which: uses art as a process - rather than end product - of communication; exposes ongoing collaborations between researcher, artist, and other posthuman agents; and challenges the normalised functions of opaque socio-technical assemblages to allow the formation of completely new perspectives of them. Research-creation is therefore seen as a vital process to surface and engage with previously “unseen" elements, aspects and relations of socio-technological assemblages as they are found in their everyday motions.
