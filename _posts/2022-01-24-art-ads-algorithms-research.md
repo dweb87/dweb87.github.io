@@ -10,8 +10,8 @@ This is an unpublished paper that went for peer review in 2022, was reviewed rel
 
 
 ### AUTHOR
-
-Dr. Dan Webster
+Art, Ads & Algorithms: Developing Research-Creation methods for platform technologies
+by Dr. Dan Webster
 2022
 
 ### ABSTRACT
