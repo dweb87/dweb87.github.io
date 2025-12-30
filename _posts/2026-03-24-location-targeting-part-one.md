@@ -3,7 +3,7 @@ layout: post
 title: Location Targeting: Part 1
 subtitle: Why Location Targeting Feels More Precise Than It Actually Is
 date:   2026-03-24 08:00:00 +0000
-tag: Marketing | 2026
+tag: Marketing
 ---
 
 ### Why Location Targeting Feels More Precise Than It Actually Is

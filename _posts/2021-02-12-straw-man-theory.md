@@ -2,8 +2,8 @@
 layout: post
 title: Straw Man Theory
 subtitle: The benefits of not finishing your work.
-date:   2021-02-12 16:08:24 +0000
-tag: Archive | 2022
+date:   2022-01-12 16:08:24 +0000
+tag: Archive 
 ---
 
 Something I learnt the hard way is the benefit of not striving towards perfection. When given a task by the client with a deliverable required at the end of it, it almost always comes back with amendments, corrections, other bits that the client has suddenly thought would be nice to see, or simply didn't quite get at what they were aiming for - something they only realise when they see the thing in front of them. The same is true for writing a PhD: every chapter I wrote came back with new notes, new ideas to think about, new references to seek out and include.

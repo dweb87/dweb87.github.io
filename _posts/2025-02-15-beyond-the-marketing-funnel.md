@@ -3,7 +3,7 @@ layout: post
 title: Beyond the Funnel
 subtitle: Rethinking marketing through patterns.
 date:   2025-02-15 13:25:00 +0000
-tag: Theory | 2025
+tag: Theory
 ---
 
 For years, digital marketing has relied on the funnel as the dominant strategic model: guiding consumers step by step from awareness to conversion. It’s a neat and tidy framework that looks great in presentations. But does it truly reflect how people engage with brands?

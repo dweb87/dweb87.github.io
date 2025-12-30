@@ -3,7 +3,7 @@ layout: post
 title: Location Targeting: Part 2
 subtitle: How Platforms Actually Perform Location
 date:   2026-04-19 08:00:00 +0000
-tag: Marketing | 2026
+tag: Marketing
 ---
 
 ### Viscous Space

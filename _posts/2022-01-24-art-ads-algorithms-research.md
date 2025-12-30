@@ -3,7 +3,7 @@ layout: post
 title: Art, Ads & Algorithms
 subtitle: Developing Research-Creation methods for platform technologies
 date:   2022-01-24 13:25:00 +0000
-tag: Method | 2022
+tag: Method
 ---
 
 This is an unpublished paper that went for peer review in 2022, was reviewed relatively well with a requirement for some changes. I never got around to making those changes, but decided to host the submission on my site as the project it documents - the 0.1km project - is hopefully an interesting and useful piece of research. It is unpublished, imperfect, and unfinished, but I will let it sit here and who knows, maybe it can help and inspire future work.
