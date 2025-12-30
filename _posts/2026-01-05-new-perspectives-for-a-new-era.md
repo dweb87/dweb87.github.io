@@ -2,7 +2,7 @@
 layout: post
 title: Posthuman Marketing
 subtitle: New perspectives for a new era.
-date:   2025-12-30 08:00:00 +0000
+date:   2026-01-05 08:00:00 +0000
 tag: Marketing | 2026
 ---
 
@@ -14,7 +14,7 @@ This shift in understanding gives marketers a new way of understanding of how di
 
 The following series will present these ideas in blog couplets outlining my ideas in a call and response format: one blog outlining the current perception and the issues that they present marketers with; a second blog that responds to this “issue” with a new perspective that allows us to better work through it. As such, this series will outline less by way of tactics and more in strategic orientation, diagnosis, and judgement - critical skills for an increasingly uncertain world.
 
-TL;DR: This series outlines a cartography of digital advertising platforms that provides new directions for digital marketers in an acceleratingly posthuman era.
+*TL;DR*: This series outlines a cartography of digital advertising platforms that provides new directions for digital marketers in an acceleratingly posthuman era.
 
 
 
