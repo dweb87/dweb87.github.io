@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Surveillance Capitalism: Part 1
+title: Surveillance Capitalism Part 1
 subtitle: Why the Story We Tell Ourselves About Digital Advertising Doesn’t Quite Fit
-date:   2026-01-31 08:00:00 +0000
+date:   2026-01-31 08:30:00 +0000
 tag: Marketing
 ---
 

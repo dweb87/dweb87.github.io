@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Location Targeting: Part 2
+title: Location Targeting Part 2
 subtitle: How Platforms Actually Perform Location
-date:   2026-04-19 08:00:00 +0000
+date:   2026-04-19 08:30:00 +0000
 tag: Marketing
 ---
 

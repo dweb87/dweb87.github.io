@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Surveillance Capitalism: Part 2
+title: Surveillance Capitalism Part 2
 subtitle: Digital Advertising as a Market That Thrives on Uncertainty
-date:   2026-02-26 08:00:00 +0000
+date:   2026-02-26 08:30:00 +0000
 tag: Marketing
 ---
 
