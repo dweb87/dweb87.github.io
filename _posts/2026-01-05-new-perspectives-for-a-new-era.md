@@ -2,7 +2,7 @@
 layout: post
 title: Posthuman Marketing
 subtitle: New perspectives for a new era.
-date:   2026-01-05 08:00:00 +0000
+date:   2025-12-30 08:00:00 +0000
 tag: Marketing | 2026
 ---
 
